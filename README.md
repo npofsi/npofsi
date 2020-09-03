@@ -1,5 +1,11 @@
 # Hello
 
+I'm npofsi.
+
+Trying to be an electronics engineer.
+
+My blog: [blog.npofsi.pro](https://blog.npofsi.pro/)
+
 [![npofsi's github stats](https://github-readme-stats.vercel.app/api?username=npofsi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npofsi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
