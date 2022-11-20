@@ -1,7 +1,9 @@
 # Hello
 
 I'm npofsi /bo:sI/.
+
 Love CoCo!
+
 Trying to be an electronics engineer.
 
 My blog: [blog.npofsi.pro](https://blog.npofsi.pro/)
