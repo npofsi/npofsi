@@ -11,7 +11,7 @@ Trying to be an electronics engineer.<br/><br/>
 <br/>
 <br/>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npofsi&langs_count=6&layout=compact" alt="NPofSi :: Top Langs" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npofsi&langs_count=8" alt="NPofSi :: Top Langs" />
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=npofsi&show_icons=true"></p>
 <!--
 **npofsi/npofsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
