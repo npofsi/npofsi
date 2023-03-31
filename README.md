@@ -1,8 +1,8 @@
 # Hello
 <em>
 I'm npofsi /bo:sI/.<br/><br/>
-Love CoCo!<br/>
-Trying to be an electronics engineer.<br/>
+Love CoCo!<br/><br/>
+Trying to be an electronics engineer.<br/><br/>
   My blog: <a href="https://blog.npofsi.pro/">blog.npofsi.pro</a>
 </em>
 <br/>
