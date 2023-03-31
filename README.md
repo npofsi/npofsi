@@ -1,6 +1,6 @@
-# Hello
+# YaHallo
 <em>
-I'm npofsi /bo:sI/.<br/><br/>
+I'm npofsi /no:sI/.<br/><br/>
 Love CoCo!<br/><br/>
 Trying to be an electronics engineer.<br/><br/>
   My blog: <a href="https://blog.npofsi.pro/">blog.npofsi.pro</a>
