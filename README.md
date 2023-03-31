@@ -1,13 +1,13 @@
 # Hello
-
-I'm npofsi /bo:sI/.
-
-Love CoCo!
-
-Trying to be an electronics engineer.
-
+<em>
+I'm npofsi /bo:sI/.<br/><br/>
+Love CoCo!<br/>
+Trying to be an electronics engineer.<br/>
 My blog: [blog.npofsi.pro](https://blog.npofsi.pro/)
+</em>
 
+
+<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=npofsi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 <!--
 **npofsi/npofsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
