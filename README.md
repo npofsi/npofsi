@@ -7,7 +7,7 @@ Trying to be an electronics engineer.<br/><br/>
 </em>
 <br/>
 <br/>
-<img align='left'   width="300" src="https://github-readme-stats.vercel.app/api?username=npofsi&show_icons=true&title_color=fff&icon_color=79ff97">
+<img align='left'   width="300" src="https://github-readme-stats.vercel.app/api?username=npofsi&show_icons=true">
 <!--
 **npofsi/npofsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
