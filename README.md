@@ -5,7 +5,7 @@
 <em>
 I'm npofsi /no:sI/.<br/><br/>
 Love CoCo!<br/><br/>
-Trying to be an electronics engineer.<br/><br/>
+Trying to be an electrical engineer.<br/><br/>
   My blog: <a href="https://blog.npofsi.pro/">blog.npofsi.pro</a>
 </em>
 <br/>
