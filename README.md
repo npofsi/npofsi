@@ -1,7 +1,9 @@
 # \ YaHallo /
 <a href="https://github.com/npofsi"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
-<br/>
 
+![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
+[![Twitter](https://img.shields.io/twitter/follow/npofsi.svg?label=Twitter)](https://twitter.com/npofsi)
+<br/>
 <em>
 I'm npofsi /no:sI/.<br/><br/>
 Love CoCo!<br/><br/>
@@ -10,8 +12,8 @@ Trying to be an electrical engineer.<br/><br/>
 </em>
 <br/>
 <br/>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npofsi&langs_count=8&layout=compact" alt="NPofSi :: Top Langs" />
+<!-- 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npofsi&langs_count=8&layout=compact" alt="NPofSi :: Top Langs" /> -->
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=npofsi&show_icons=true"></p>
 <!--
 **npofsi/npofsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
