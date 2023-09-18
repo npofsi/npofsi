@@ -13,7 +13,18 @@ Trying to be an electrical engineer.<br/><br/>
 <br/>
 <br/>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npofsi&langs_count=8&layout=compact" alt="NPofSi :: Top Langs" />
+<tr>
+  <td>
+    <a>
+      <img src="https://github-readme-stats.vercel.app/api?username=npofsi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="200"/>
+    </a>
+  </td>
+  <td>
+    <a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npofsi&langs_count=8&hide_border=true&layout=compact" alt="NPofSi :: Top Langs" />
+    </a>
+  </td>
+</tr>
 <!-- <img align='left' src="https://github-readme-stats.vercel.app/api?username=npofsi&show_icons=true"></p> -->
 <!--
 **npofsi/npofsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
