@@ -15,12 +15,12 @@ Trying to be an electrical engineer.<br/><br/>
 
 <tr>
   <td>
-    <a>
+    <a style="display:inline">
       <img src="https://github-readme-stats.vercel.app/api?username=npofsi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="200"/>
     </a>
   </td>
   <td>
-    <a>
+    <a style="display:inline">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npofsi&langs_count=8&hide_border=true&layout=compact" alt="NPofSi :: Top Langs" />
     </a>
   </td>
