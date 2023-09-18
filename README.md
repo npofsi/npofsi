@@ -12,7 +12,7 @@ Trying to be an electrical engineer.<br/><br/>
 </em>
 <br/>
 <br/>
-
+<table width="100%" align="center">
 <tr>
   <td>
     <a style="display:inline">
@@ -25,6 +25,7 @@ Trying to be an electrical engineer.<br/><br/>
     </a>
   </td>
 </tr>
+</table>
 <!-- <img align='left' src="https://github-readme-stats.vercel.app/api?username=npofsi&show_icons=true"></p> -->
 <!--
 **npofsi/npofsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
