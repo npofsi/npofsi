@@ -8,7 +8,7 @@
 <em>
 I'm npofsi /pos/.<br/><br/>
 Love CoCo!<br/><br/>
-Try to be an electrical engineer.<br/><br/>
+Try to be an full stack electrical engineer.<br/><br/>
   My blog: <a href="https://blog.npofsi.pro/">blog.npofsi.pro</a>
 </em>
 
