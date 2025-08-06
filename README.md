@@ -43,9 +43,11 @@ Trying to be an full stack electrical engineer.<br/><br/>
 <table width="100%" align="center">
 <tr>
   <td>
-    <a style="display:inline">
-      <img src="https://github-readme-stats.vercel.app/api?username=npofsi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="200"/>
-    </a>
+    <img 
+    src="https://github-readme-stats.vercel.app/api?username=npofsi&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    alt="My Github stats"
+    height="220"
+  />
   </td>
   <td>
     <a style="display:inline">
