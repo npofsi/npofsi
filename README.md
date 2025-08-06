@@ -40,21 +40,19 @@ Trying to be an full stack electrical engineer.<br/><br/>
 
 <br/>
 
-<table width="100%" align="center">
-<tr>
-  <td>
+<div align="center">
     <img 
-    src="https://github-readme-stats.vercel.app/api?username=npofsi&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    src="https://github-readme-stats.vercel.app/api?username=npofsi&hide_border=true&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     alt="My Github stats"
     height="220"
   />
-  </td>
-  <td>
     <a style="display:inline">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npofsi&langs_count=8&hide_border=true&layout=compact" alt="NPofSi :: Top Langs" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=npofsi&langs_count=8&hide_border=true&layout=compact&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"" alt="NPofSi :: Top Langs" 
+        height="220"
+      />
     </a>
-  </td>
-</tr>
+</div>
 </table>
 
 
