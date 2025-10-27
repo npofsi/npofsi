@@ -10,7 +10,7 @@ I'm npofsi, you can call me pos.
   
 I'm a graduate EE+CS major at Beijing Jiaotong University, Beijing.
 
-Currently study as a PhD. student at BJTU.
+I'm currently study as a PhD. student at BJTU.
 
 Love CoCo!
 
