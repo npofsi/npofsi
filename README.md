@@ -5,18 +5,18 @@
 ![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge)
 
 
-<em>
+
 I'm npofsi, you can call me pos.
   
 I'm a graduate EE+CS major at Beijing Jiaotong University, Beijing.
+
+Currently study as a PhD. student at BJTU.
 
 Love CoCo!
 
 Trying to be a full stack electrical engineer.
 
 My blog: <a href="https://blog.npofsi.pro/">blog.npofsi.pro</a>
-  
-</em>
 
 <br/>
 
