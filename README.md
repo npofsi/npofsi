@@ -6,9 +6,10 @@
 
 
 <em>
-I'm npofsi /pos/.<br/><br/>
-Love CoCo!<br/><br/>
-Trying to be a full stack electrical engineer.<br/><br/>
+I'm npofsi, you can call me pos.
+I'm a graduate EE+CS major at Beijing Jiaotong University, Beijing.
+Love CoCo!
+Trying to be a full stack electrical engineer.
   My blog: <a href="https://blog.npofsi.pro/">blog.npofsi.pro</a>
 </em>
 
