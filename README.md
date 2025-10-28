@@ -6,7 +6,7 @@
 
 
 
-- 🥺 I'm npofsi, you can call me pos.
+- 🥺 I'm npofsi, you can call me _/pos/_
   
 - 🎓 I'm a graduate EE+CS major at Beijing Jiaotong University, Beijing.
 
